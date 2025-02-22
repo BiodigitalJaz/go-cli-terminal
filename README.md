@@ -1,6 +1,6 @@
-List Selector CLI
+# GO-CLI-Terminal
 
-Overview
+## Overview
 
 The **List Selector CLI** is a command-line application built using **Go** and the **Cobra** package. It allows users to navigate a list of options using arrow keys and execute associated actions.
 
@@ -60,6 +60,6 @@ go-cli-terminal/
 │── models/
 │   ├── option.go          # Defines the Option struct
 |── actions/
-    |── actions.go         # Provides sample actions for our options to execute on
+|   |── actions.go         # Provides sample actions for our options to execute on
 │── go.mod                 # Go module file
 │── go.sum                 # Dependencies checksum
