@@ -50,6 +50,21 @@ Options
 | 5            | Allow user input        |
 | 6            | Exit the program        |
 
+### or
+
+Run an additional option block
+```
+go run main.go alternate
+```
+
+Alternate Options (demo of how to use framework to easly support more opitons)
+
+| Option Number | Description            |
+|--------------|------------------------|
+| 1            | Print Alternative Hello |
+| 2            | Show Alternative Date |
+| 3            | Exit Alternative Menu" |
+
 ## Project Structure
 
 ```

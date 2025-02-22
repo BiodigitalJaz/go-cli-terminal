@@ -25,3 +25,7 @@ func PrintHello() {
 func ShowDate() {
 	fmt.Println("Current Date: 2025-02-21") // Replace with actual date logic if needed
 }
+
+func ShowAlternativeDate() {
+	fmt.Println("Alternative Date: 2025-02-22")
+}
