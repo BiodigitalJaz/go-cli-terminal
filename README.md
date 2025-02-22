@@ -4,19 +4,16 @@ Overview
 
 The **List Selector CLI** is a command-line application built using **Go** and the **Cobra** package. It allows users to navigate a list of options using arrow keys and execute associated actions.
 
-Features
+## Features
 
-Navigate a menu using arrow keys
+* Navigate a menu using arrow keys
+* Execute various actions upon selection
+* Retrieve user input
+* Exit functionality
 
-Execute various actions upon selection
+## Installation
 
-Retrieve user input
-
-Exit functionality
-
-Installation
-
-Prerequisites
+### Prerequisites
 
 Ensure you have **Go** installed on your system. If not, install it from .
 
@@ -34,7 +31,7 @@ Install Dependencies
 go mod tidy
 ```
 
-Usage
+## Usage
 
 Run the CLI
 
